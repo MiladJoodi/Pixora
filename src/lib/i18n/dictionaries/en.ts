@@ -2,13 +2,13 @@ import type { Dictionary } from "../getDictionary";
 
 const en: Dictionary = {
   meta: {
-    title: "Visualize Image Gallery",
+    title: "Pixora Image Gallery",
     description:
       "A modern, premium image gallery with smooth navigation, responsive design, and accessible lightbox.",
-    aboutTitle: "About Us | Visualize",
+    aboutTitle: "About Us | Pixora",
     aboutDescription:
-      "Learn about the team and vision behind the Visualize image gallery.",
-    contactTitle: "Contact Us | Visualize",
+      "Learn about the team and vision behind the Pixora image gallery.",
+    contactTitle: "Contact Us | Pixora",
     contactDescription:
       "Get in touch via email, GitHub, or LinkedIn.",
   },
@@ -20,9 +20,9 @@ const en: Dictionary = {
   },
   hero: {
     badge: "Image Gallery",
-    title: "Visualize",
+    title: "Pixora",
     description:
-      "A modern, luxurious experience for browsing photos with smooth navigation, proper focus management, and an accessible modal viewer.",
+      "A curated collection of photos. Click any image to view it full size.",
   },
   gallery: {
     title: "Photo Gallery",
@@ -42,7 +42,7 @@ const en: Dictionary = {
   about: {
     title: "About Us",
     intro:
-      "Visualize is a modern image gallery built with a focus on user experience, visual quality, and accessibility.",
+      "Pixora is a modern image gallery built with a focus on user experience, visual quality, and accessibility.",
     missionTitle: "Our Mission",
     mission:
       "We believe photo browsing should feel simple, enjoyable, and professional. This project is built with Next.js, React, and Tailwind CSS to combine performance, quality, and maintainability.",

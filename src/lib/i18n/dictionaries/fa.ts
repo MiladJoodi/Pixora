@@ -2,12 +2,12 @@ import type { Dictionary } from "../getDictionary";
 
 const fa: Dictionary = {
   meta: {
-    title: "گالری تصاویر Visualize",
+    title: "گالری تصاویر Pixora",
     description:
       "یک گالری تصاویر مدرن و پریمیوم با ناوبری نرم، طراحی واکنش‌گرا و مودال قابل دسترس.",
-    aboutTitle: "درباره ما | Visualize",
-    aboutDescription: "با تیم و هدف پشت گالری تصاویر Visualize آشنا شوید.",
-    contactTitle: "تماس با ما | Visualize",
+    aboutTitle: "درباره ما | Pixora",
+    aboutDescription: "با تیم و هدف پشت گالری تصاویر Pixora آشنا شوید.",
+    contactTitle: "تماس با ما | Pixora",
     contactDescription:
       "از طریق ایمیل، گیت‌هاب یا لینکدین با ما در ارتباط باشید.",
   },
@@ -19,9 +19,9 @@ const fa: Dictionary = {
   },
   hero: {
     badge: "گالری تصاویر",
-    title: "Visualize",
+    title: "Pixora",
     description:
-      "یک تجربه مدرن و لوکس برای مشاهده تصاویر با ناوبری نرم، فوکوس مناسب و مودال قابل دسترس.",
+      "مجموعه‌ای از عکس‌های منتخب. برای دیدن اندازه واقعی، روی هر تصویر کلیک کنید.",
   },
   gallery: {
     title: "گالری تصاویر",
@@ -41,7 +41,7 @@ const fa: Dictionary = {
   about: {
     title: "درباره ما",
     intro:
-      "Visualize یک گالری تصاویر مدرن است که با تمرکز بر تجربه کاربری، زیبایی بصری و دسترسی‌پذیری ساخته شده است.",
+      "Pixora یک گالری تصاویر مدرن است که با تمرکز بر تجربه کاربری، زیبایی بصری و دسترسی‌پذیری ساخته شده است.",
     missionTitle: "ماموریت ما",
     mission:
       "ما معتقدیم نمایش تصاویر باید ساده، لذت‌بخش و در عین حال حرفه‌ای باشد. این پروژه با Next.js، React و Tailwind CSS ساخته شده تا سرعت، کیفیت و نگهداری آسان را ترکیب کند.",

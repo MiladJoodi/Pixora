@@ -1,6 +1,6 @@
 export const siteConfig = {
-  name: "Visualize",
-  githubUrl: "https://github.com/MiladJoodi/Visualize",
+  name: "Pixora",
+  githubUrl: "https://github.com/MiladJoodi/Pixora",
   linkedinUrl: "https://www.linkedin.com/in/joodi/",
   email: "hello@example.com",
 } as const;

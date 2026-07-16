@@ -1,4 +1,4 @@
-# Visualize
+# Pixora
 
 A modern, responsive image gallery with lightbox, bilingual support (Persian/English), and About & Contact pages.
 
@@ -46,5 +46,5 @@ public/pics/          # images
 
 ## Links
 
-- GitHub: [MiladJoodi/Visualize](https://github.com/MiladJoodi/Visualize)
+- GitHub: [MiladJoodi/Pixora](https://github.com/MiladJoodi/Pixora)
 - LinkedIn: [joodi](https://www.linkedin.com/in/joodi/)

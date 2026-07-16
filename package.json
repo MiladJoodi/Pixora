@@ -1,7 +1,20 @@
 {
-  "name": "01",
+  "name": "pixora",
   "version": "0.1.0",
   "private": true,
+  "description": "Modern bilingual (FA/EN) image gallery with lightbox, masonry layout, and accessible UI — built with Next.js.",
+  "author": {
+    "name": "Milad Joodi",
+    "url": "https://www.linkedin.com/in/joodi/"
+  },
+  "homepage": "https://github.com/MiladJoodi/Pixora",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiladJoodi/Pixora.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MiladJoodi/Pixora/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

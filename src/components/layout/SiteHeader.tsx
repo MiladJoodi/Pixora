@@ -31,7 +31,7 @@ export default function SiteHeader({ locale, dict }: SiteHeaderProps) {
           href={`/${locale}`}
           className="text-lg font-semibold tracking-tight text-white/95 transition hover:text-white"
         >
-          Visualize
+          Pixora
         </Link>
 
         <nav
