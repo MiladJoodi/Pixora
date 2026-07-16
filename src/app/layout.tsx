@@ -1,3 +1,4 @@
+import type { Viewport } from "next";
 import localFont from "next/font/local";
 import { Inter } from "next/font/google";
 import { headers } from "next/headers";
@@ -19,6 +20,11 @@ const inter = Inter({
   variable: "--font-inter",
   display: "swap",
 });
+
+export const viewport: Viewport = {
+  themeColor: "#06070c",
+  colorScheme: "dark",
+};
 
 async function getLocaleFromHeaders() {
   const headersList = await headers();
