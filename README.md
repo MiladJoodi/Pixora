@@ -2,6 +2,11 @@
 
 A modern, responsive image gallery with lightbox, bilingual support (Persian/English), and About & Contact pages.
 
+![Alt Text](https://raw.githubusercontent.com/MiladJoodi/Pixora/refs/heads/master/public/images/0111.png)
+![Alt Text](https://raw.githubusercontent.com/MiladJoodi/Pixora/refs/heads/master/public/images/Screenshot%202026-07-16%20141228.png)
+![Alt Text](https://raw.githubusercontent.com/MiladJoodi/Pixora/refs/heads/master/public/images/Screenshot%202026-07-16%20141258.png)
+![Alt Text](https://raw.githubusercontent.com/MiladJoodi/Pixora/refs/heads/master/public/images/Screenshot%202026-07-16%20141326.png)
+
 ## Tech Stack
 
 - **Next.js 16** — App Router
