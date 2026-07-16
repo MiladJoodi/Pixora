@@ -25,10 +25,10 @@ npm run start
 
 | Route | Description |
 |-------|-------------|
-| `/fa` | Persian (default) |
-| `/en` | English |
-| `/fa/about` · `/en/about` | About |
-| `/fa/contact` · `/en/contact` | Contact |
+| `/en` | English (default, LTR) |
+| `/fa` | Persian (RTL) |
+| `/en/about` · `/fa/about` | About |
+| `/en/contact` · `/fa/contact` | Contact |
 
 ## Structure
 

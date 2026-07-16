@@ -83,6 +83,10 @@ const en: Dictionary = {
     "05": { title: "City View", caption: "Photo summary" },
     "06": { title: "Seaside Sunset", caption: "Photo summary" },
     "07": { title: "Tower & Sky", caption: "Photo summary" },
+    "08": { title: "City View", caption: "Photo summary" },
+    "09": { title: "Alone Bench", caption: "Photo summary" },
+    "10": { title: "Dad Vibe", caption: "Photo summary" },
+    "11": { title: "Alone Girl", caption: "Photo summary" },
   },
 };
 
