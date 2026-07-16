@@ -2,9 +2,6 @@
 
 A modern, responsive image gallery with lightbox, bilingual support (Persian/English), and About & Contact pages.
 
-**GitHub Description (one line):**
-> Modern bilingual (FA/EN) image gallery with lightbox, masonry layout, and accessible UI — built with Next.js.
-
 ## Tech Stack
 
 - **Next.js 16** — App Router
