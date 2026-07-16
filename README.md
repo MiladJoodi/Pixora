@@ -1,8 +1,8 @@
 # Visualize
 
-گالری تصاویر ریسپانسیو با Lightbox، پشتیبانی دو زبانه (فارسی/انگلیسی) و صفحات درباره ما و تماس با ما.
+A modern, responsive image gallery with lightbox, bilingual support (Persian/English), and About & Contact pages.
 
-**GitHub Description (یک خط):**
+**GitHub Description (one line):**
 > Modern bilingual (FA/EN) image gallery with lightbox, masonry layout, and accessible UI — built with Next.js.
 
 ## Tech Stack
@@ -11,9 +11,9 @@
 - **React 19**
 - **TypeScript**
 - **Tailwind CSS 4**
-- **Framer Motion** — انیمیشن‌ها
-- **Radix UI** — مودال Lightbox
-- **Lucide React** — آیکون‌ها
+- **Framer Motion** — animations
+- **Radix UI** — lightbox modal
+- **Lucide React** — icons
 
 ## Scripts
 
@@ -26,22 +26,22 @@ npm run start
 
 ## Routes
 
-| مسیر | توضیح |
-|------|--------|
-| `/fa` | فارسی (پیش‌فرض) |
+| Route | Description |
+|-------|-------------|
+| `/fa` | Persian (default) |
 | `/en` | English |
-| `/fa/about` · `/en/about` | درباره ما |
-| `/fa/contact` · `/en/contact` | تماس با ما |
+| `/fa/about` · `/en/about` | About |
+| `/fa/contact` · `/en/contact` | Contact |
 
 ## Structure
 
 ```
 src/
-├── app/[locale]/     # صفحات
+├── app/[locale]/     # pages
 ├── components/       # UI
-├── lib/i18n/         # ترجمه‌ها
+├── lib/i18n/         # translations
 └── assets/fonts/     # Vazir
-public/pics/          # تصاویر
+public/pics/          # images
 ```
 
 ## Links
